@@ -93,6 +93,7 @@ nav {
   margin-bottom: 10px;
   white-space: nowrap;
 }
+
 .description {
   font-size: small;
   text-align: center;
@@ -147,6 +148,7 @@ nav {
   border: #000000 1px solid;
   padding: 10px;
 }
+
 .card-admin a {
   text-decoration: none;
   color: black;
@@ -165,11 +167,8 @@ nav {
 
 .commerce {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-content: space-around;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  justify-content: space-around;
   height: 93vh;
 }

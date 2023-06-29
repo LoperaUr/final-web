@@ -6,7 +6,10 @@ const Home = () => {
   return (
     <>
       <Header />
-      <main className='commerce'>Home</main>
+      <main className='commerce'>
+        <h4>Juan Camilo Jaramillo Web</h4>
+        <p>Web diseñada para el registro y control de datos de una empresa cualquiera</p>
+      </main>
       
     </>
   )
